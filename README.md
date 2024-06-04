@@ -1,4 +1,4 @@
-app.get("/", (req, res) => {
+The background color is `#ffffff` for light mode and `#000000` app.get("/", (req, res) => {
 
   const user = {
     name: 'Laiza Medeiros',
